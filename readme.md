@@ -5,10 +5,6 @@ The final version of the color organizer app that runs on both the client and th
 Important Files
 --------------
 
-* Express App Configuration ([source](https://github.com/MoonHighway/learning-react/blob/master/chapter-12/color-organizer/src/server/app.js))
-* Express Routes ([source](https://github.com/MoonHighway/learning-react/blob/master/chapter-12/color-organizer/src/server/color-api.js))
-* Redux Thunks ([source](https://github.com/MoonHighway/learning-react/blob/master/chapter-12/color-organizer/src/actions.js))
-
 Clone and Install
 -------------
 
